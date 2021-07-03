@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/roll_dnd_berryscottr.egg-info/PKG-INFO
+src/roll_dnd_berryscottr.egg-info/SOURCES.txt
+src/roll_dnd_berryscottr.egg-info/dependency_links.txt
+src/roll_dnd_berryscottr.egg-info/top_level.txt
